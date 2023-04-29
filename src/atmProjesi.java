@@ -7,8 +7,8 @@ public class atmProjesi {
 //versiyon 1
 
 
-
-
+        System.out.println("hey");
+//versiyon2
 
 
 
