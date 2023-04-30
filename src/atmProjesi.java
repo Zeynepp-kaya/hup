@@ -14,7 +14,7 @@ public class atmProjesi {
 
 //yeni isler yeni kodlar ekledim
 
-
+///birseyler ekledim
 
 
 }
