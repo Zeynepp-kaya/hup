@@ -11,8 +11,9 @@ public class atmProjesi {
 
 //ikinci kez merge islemi icin kodlar ekledim
 
-
-
+    /*
+    merge yapmali
+     */
 
 
 }
