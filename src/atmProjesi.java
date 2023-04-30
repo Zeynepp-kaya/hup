@@ -7,9 +7,9 @@ public class atmProjesi {
 
 
 //nazende branch kodlarini yazdi
+//nazende branchine kodlar yazildi
 
-
-
+//
 
 
 
