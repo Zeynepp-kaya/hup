@@ -12,7 +12,10 @@ public class atmProjesi {
 //nazende branch kodlarini yazdi
 //nazende branchine kodlar yazildi
 
+
 //yeni isler yeni kodlar ekledim
+
+//ikinci kez merge islemi icin kodlar ekledim
 
 ///birseyler ekledim
 
