@@ -10,6 +10,9 @@ public class atmProjesi {
 
         System.out.println("hayat");
 
+        System.out.println("cod");
+
+
 
     }
 
