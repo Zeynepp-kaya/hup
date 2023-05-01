@@ -34,6 +34,7 @@ public class atmProjesi {
     //kodlar duxelick mi
 
 //bu durumda son bakilim birlesecek mi
+    //remot repoda degisiklik yaptim
 
 
 }
