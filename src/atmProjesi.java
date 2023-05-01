@@ -5,7 +5,12 @@ public class atmProjesi {
         System.out.println("bu birr atm projesidir");
 
 
+
         System.out.println("ekledim kodlar");
+
+        System.out.println("hayat");
+
+
     }
 
 
@@ -17,7 +22,12 @@ public class atmProjesi {
 
 //ikinci kez merge islemi icin kodlar ekledim
 
+
 ///birseyler ekledim
+
+
+
+//4512
 
 
 
