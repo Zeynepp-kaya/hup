@@ -11,6 +11,7 @@ public class hesapclasi {
 
 
         System.out.println("zeynep branch yapilan islemler 2");
+        sout lokale ko gonderme zeynep
     }
 
 
