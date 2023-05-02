@@ -36,4 +36,7 @@ public class atmProjesi {
 //bu durumda son bakilim birlesecek mi
 //2 mayis lakadeki kodlari remotda gondemek icin yapilan islem kodlari
 
+    //remot repoda degisiklik yaptim
+//mayis 2 de son kodlari yazdi
+
 }
