@@ -42,7 +42,7 @@ public class atmProjesi {
 
    //son kodlar remota gonderilmek ici soooooooooooooon
 
-
+//lokale gonderilmek uzere sooooooooooooooooooooon kodlar yazildi
 
 
 
