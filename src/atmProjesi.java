@@ -48,7 +48,7 @@ public class atmProjesi {
 //remota gonderilmek icin456123
 
 
-
+//kalemle yapilan islemler
 
 
 
