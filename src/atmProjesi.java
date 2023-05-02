@@ -28,7 +28,7 @@ public class atmProjesi {
    //son kodlar remota gonderilmek ici soooooooooooooon
 
 
-
+//remota gonderilmek icin456123
 
 
 
