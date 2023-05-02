@@ -24,4 +24,12 @@ public class atmProjesi {
 
 //bu durumda son bakilim birlesecek mi
 
+
+   //son kodlar remota gonderilmek ici soooooooooooooon
+
+
+
+
+
+
 }
