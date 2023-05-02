@@ -34,6 +34,6 @@ public class atmProjesi {
     //kodlar duxelick mi
 
 //bu durumda son bakilim birlesecek mi
-
+//2 mayis lakadeki kodlari remotda gondemek icin yapilan islem kodlari
 
 }
