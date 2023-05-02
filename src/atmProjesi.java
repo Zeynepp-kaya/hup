@@ -35,6 +35,6 @@ public class atmProjesi {
 
 //bu durumda son bakilim birlesecek mi
     //remot repoda degisiklik yaptim
-
+//mayis 2 de son kodlari yazdim
 
 }
