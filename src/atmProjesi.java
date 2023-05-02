@@ -39,4 +39,12 @@ public class atmProjesi {
     //remot repoda degisiklik yaptim
 //mayis 2 de son kodlari yazdi
 
+
+   //son kodlar remota gonderilmek ici soooooooooooooon
+
+
+
+
+
+
 }
